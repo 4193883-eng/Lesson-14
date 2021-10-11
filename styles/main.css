@@ -1,0 +1,55 @@
+body{
+    background-color: #37b472;
+}
+.conatiner{
+    width: 900px;
+    height: 200px;
+    margin: auto;
+    padding-top: 50px;
+}
+.envato{
+    text-align: center;
+    color: #fff;
+    font-family: 'Open Sans';
+    font-size: 42px;
+    margin: 0;
+}
+.subtitle{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.705);
+    font-family: 'Open Sans';
+    font-size: 16px;
+    font-weight: 300;
+    margin: 0;
+    text-decoration: underline;
+}
+.blocks{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    width: 48%;
+    background-color: #fff;
+
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.bottom p{
+    font-family: 'Open Sans';
+}
+.text_title{
+    margin: 5px;
+    font-family: 'Open Sans';
+}
+.text{
+    margin: 5px;
+    font-family: 'Open Sans';
+}
+img{
+    width: 100%;
+
+}
